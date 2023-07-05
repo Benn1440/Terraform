@@ -15,4 +15,4 @@ Which generated various AWS resource Templates in our selected Region.
 
 # AWS Providers
 
-A provider is basically used by Terraform to interface with the Application Programming Interface (API) of whatsoever infrastructure you are trying to build which is available to the cloud service provider.
+A provider is basically used by Terraform to interface with the Application Programming Interface (API) of whatsoever infrastructure you are trying to build which is available to the cloud service provider. ## https://registry.terraform.io/providers/hashicorp/aws/latest/docs
