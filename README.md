@@ -12,3 +12,7 @@ On Visual Studio code there was the need to install the AWS Toolkits and Terrafo
 Which generated various AWS resource Templates in our selected Region.
 
 ![Terraform](https://github.com/Benn1440/Terraform/assets/67696393/3f10b409-19b8-4275-9ed5-50b83991f789)
+
+# AWS Providers
+
+A provider is basically used by Terraform to interface with the Application Programming Interface (API) of whatsoever infrastructure you are trying to build which is available to the cloud service provider.
