@@ -16,3 +16,11 @@ Which generated various AWS resource Templates in our selected Region.
 # AWS Providers
 
 A provider is basically used by Terraform to interface with the Application Programming Interface (API) of whatsoever infrastructure you are trying to build which is available to the cloud service provider. ## https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
+# Terraform init
+
+Running the terraform init within the working directory, terraform checks the provider's file installs required hashicorp files and then creates Two(2) extra files
+.terraform.lock.hcl ensures that the selected version is frozen, Which helps to avoid issues in cases of upgrade and a .exe file. 
+
+
+![Terraform init](https://github.com/Benn1440/Terraform/assets/67696393/5fe3e1db-9830-464d-8485-f7ad5acdb176)
