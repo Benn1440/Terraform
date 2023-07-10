@@ -24,3 +24,17 @@ Running the terraform init within the working directory, terraform checks the pr
 
 
 ![Terraform init](https://github.com/Benn1440/Terraform/assets/67696393/5fe3e1db-9830-464d-8485-f7ad5acdb176)
+
+# Terraform plan
+
+After creating a main.tf file, with the specified resources, in this instance a VPC, running terraform plan creates a state file.
+
+![terraform plan](https://github.com/Benn1440/Terraform/assets/67696393/26220752-f64b-458f-9652-e5b889d85548)
+
+# Terraform apply
+
+This creates the specified resource.
+
+![terraform apply](https://github.com/Benn1440/Terraform/assets/67696393/069e8db4-ea44-4a7c-b5a9-bb77492f0491)
+
+
