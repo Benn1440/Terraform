@@ -37,4 +37,8 @@ This creates the specified resource.
 
 ![terraform apply](https://github.com/Benn1440/Terraform/assets/67696393/069e8db4-ea44-4a7c-b5a9-bb77492f0491)
 
+VPC Resource created on AWS GUI
+
+![VPCfrmTerraform](https://github.com/Benn1440/Terraform/assets/67696393/59f24c75-4ac8-47c8-b53a-630e5c7038aa)
+
 
